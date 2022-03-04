@@ -1,2 +1,2 @@
-def func2():
+gdsfgdfgdfdef func2():
 	print('AAA')
